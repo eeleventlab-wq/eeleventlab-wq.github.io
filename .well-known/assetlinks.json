@@ -1,1 +1,8 @@
-
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.eeleventlab_wq.twa",
+        "sha256_cert_fingerprints": ["09:7F:5A:BA:61:83:D2:DD:B7:93:10:40:96:C1:92:4F:90:0A:77:1E:C6:01:F0:AF:F7:D9:06:65:4F:37:93:E5"]
+      }
+    }]
